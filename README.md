@@ -47,3 +47,5 @@ Project 3: A Monte Carlo simulation of the Ising model from statistical physics(
     
     5. Find the relations between magnetization and the critical temperature, and conclude the the spin configuration
     in different temperature with different lattice size.
+
+Project 4: Connection between Graph Neural Networks and ODEs (Machine learning on Graph, Group and Manifold)
