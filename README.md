@@ -1,51 +1,14 @@
 # Projects
 
-Project 1 : Using logistic Regression Model to Predict Heart Disease Staglog(STAT 3675)
+## Project 1 : Using logistic Regression Model to Predict Heart Disease Staglog(STAT 3675 at UConn )
+#### We conducted an in-depth analysis of a heart disease dataset, which included 270 samples and 14 variables, using logistic regression to predict the likelihood of heart disease based on factors such as age, gender, blood pressure, and cholesterol levels. We provided a clear overview of the dataset's origin, size, and key variables, utilizing visual aids like histograms, bar plots, pie charts, and box plots to effectively illustrate data distributions. Hypothesis testing was applied to establish associations between predictors and the binary target variable, and we rigorously assessed multicollinearity to ensure the reliability of the logistic regression model. we formulated a robust logistic regression model, systematically reducing it based on AIC values through stepwise selection, which increased prediction accuracy by 2%. we addressed the assumptions of logistic regression to confirm the model's appropriateness, acknowledged limitations such as missing variables like smoking habits and dietary factors, and recognized the trade-off between model complexity and prediction accuracy while proposing potential areas for improvement.
 
-    1. Conducted in-depth analysis of a heart disease dataset, encompassing 270 samples and 14 variables. 
-    Utilized logistic regression to predict the likelihood of heart disease, considering factors such as age, gender, blood pressure, cholesterol levels, etc.
-    
-    2. Presented a clear overview of the dataset's origin, size, and key variables. 
-    Employed visual aids such as histograms, bar plots, pie charts, and box plots to illustrate data distributions effectively.
-    
-    3. Applied hypothesis testing to establish the association between predictors and the binary target variable.
-    Rigorously assessed multicollinearity, ensuring the reliability of the logistic regression model. 
-    Formulated a robust logistic regression model, systematically reducing it based on AIC's values through step-wise selection and the prediction accuaracy increased 2%.
-    
-    4.  Addressed assumptions of logistic regression, confirming the model's appropriateness. 
-    Acknowledged limitations, including missing variables such as smoking habits and dietary factors. 
-    Recognized the trade-off between model complexity and prediction accuracy, proposing potential areas for improvement.
-
-Project 2: How to get into Graduate School Successfully?(STAT 3494W)
-
-    1. Collect and carefully clean relevant data from Kaggle to conduct a comprehensive analysis of factors influencing graduate school admissions.
-    
-    2. Applied advanced statistical techniques, specifically Logistic Regression, to model the data and identify the most crucial factors affecting admission success. 
-    Contributed to understanding the complex dynamics of graduate school admissions.
-    
-    3. Detected potential multicollinearity issues within the dataset, specifically noting a high correlation between TOEFL and GRE scores. 
-    Addressed this challenge by calculating the VIF(Variance Inflation Factor) to show that the multicollinearity issues does not affect the Logistic regression model.
-    
-    4. Conducted a comparative analysis between Logistic Regression and Linear Regression models, shedding light on the strengths and limitations of each approach. 
-    Provided insights into the nuanced nature of predicting graduate school admissions.
-    
-    5. Identified limitations in the chosen methodology and proposed avenues for further research. 
-    Proposed some suggestions to enhance the robustness of future studies in this domain.
+## Project 2: How to get into Graduate School Successfully?(STAT 3494W at UConn )
+#### We conducted a comprehensive analysis of factors influencing graduate school admissions using data from Kaggle, applied logistic regression to identify key factors, addressed multicollinearity between TOEFL and GRE scores using VIF, compared logistic and linear regression models, and identified methodological limitations while proposing suggestions for future research.
 
 
-Project 3: A Monte Carlo simulation of the Ising model from statistical physics(Scientific Computing With Python)
+## Project 3: A Monte Carlo simulation of the Ising model from statistical physics(Scientific Computing With Python at University of Chicago) 
 
-    1. Collaborated with team members Hantao Xiao and Alexander Cram to conduct a Monte Carlo simulation of the 2-D Ising model.
-    
-    2. Contributed significantly to the project by writing functions such as cal_Energy, energy_change and MCMC_step.
-    Integrated these functions into the Ising_model_Simulation model, generating eight outputs for comprehensive
-    analysis.
-    
-    3. Using Metropolis-Hastings and Wolff clustering algorithms to simulate the Monte-Carlo Markov Chain
-    
-    4. Explored the efficiency trade-offs between the Metropolis-Hastings and Wolff algorithms
-    
-    5. Find the relations between magnetization and the critical temperature, and conclude the the spin configuration
-    in different temperature with different lattice size.
+#### I collaborated with team members Hantao Xiao and Alexander Cram to conduct a Monte Carlo simulation of the 2-D Ising model, contributed by writing key functions such as cal_Energy, energy_change, and MCMC_step, integrated these into the simulation model to generate comprehensive outputs, used Metropolis-Hastings and Wolff clustering algorithms for the Monte Carlo Markov Chain simulation, explored efficiency trade-offs between these algorithms, and analyzed the relationship between magnetization and critical temperature across different temperatures and lattice sizes.
 
-Project 4: Connection between Graph Neural Networks and ODEs (Machine learning on Graph, Group and Manifold)
+## Project 4: Connection between Graph Neural Networks and ODEs (Machine learning on Graph, Group and Manifold at University of Chicago)
