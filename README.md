@@ -14,6 +14,8 @@ I collaborated with team members Hantao Xiao and Alexander Cram to conduct a Mon
 
 ## Project 4: Connection between Graph Neural Networks and ODEs (Machine learning on Graph, Group and Manifold at University of Chicago)
 
+The project explores the integration of Ordinary Differential Equations (ODEs) and Graph Neural Networks (GNNs) to enhance scientific computing. By applying ODEs to GNNs, the project leverages the interconnected nature of graph nodes for improved information propagation. Utilizing the Continuous Graph Neural Networks (CGNN) model, both with and without weights, the study evaluates performance on the Cora dataset, consisting of scientific publications and citation links. Results show consistent accuracy around 83% across different training epochs, indicating robust model performance without significant overfitting. The study recommends further comparative analysis with other GNN models, additional datasets for validation, and more in-depth hyperparameter optimization, while also considering the potential efficiency of using Partial Differential Equations (PDEs) in future work.
+
 
 
 ## Project 5: Kalman Filter and Ensemble Kalman Filter with Applications (Monte Carlo Simulation at University of Chicago)
