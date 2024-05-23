@@ -17,3 +17,5 @@ I collaborated with team members Hantao Xiao and Alexander Cram to conduct a Mon
 
 
 ## Project 5: Kalman Filter and Ensemble Kalman Filter with Applications (Monte Carlo Simulation at University of Chicago)
+
+This project we investigates the implementation and application of the Kalman Filter (KF) and the Ensemble Kalman Filter (EnKF) to enhance understanding of data assimilation techniques and their relevance in solving inverse problems. The KF, a recursive algorithm for estimating the state of a dynamic system from noisy measurements, and the EnKF, an extension suitable for high-dimensional nonlinear systems, are both explored through theoretical discussions and practical implementations. The project assesses the effectiveness of these filters in various scenarios, including linear and nonlinear models, and analyzes the impact of different noise levels and ensemble sizes on the accuracy and stability of the EnKF. The work demonstrates the robustness and efficacy of these techniques in real-world applications.
